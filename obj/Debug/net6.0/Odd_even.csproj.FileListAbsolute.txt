@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Odd_even\Odd_even\bin\Debug\net6.0\Odd_even.exe
+C:\Users\user\source\repos\Odd_even\Odd_even\bin\Debug\net6.0\Odd_even.deps.json
+C:\Users\user\source\repos\Odd_even\Odd_even\bin\Debug\net6.0\Odd_even.runtimeconfig.json
+C:\Users\user\source\repos\Odd_even\Odd_even\bin\Debug\net6.0\Odd_even.dll
+C:\Users\user\source\repos\Odd_even\Odd_even\bin\Debug\net6.0\Odd_even.pdb
+C:\Users\user\source\repos\Odd_even\Odd_even\obj\Debug\net6.0\Odd_even.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Odd_even\Odd_even\obj\Debug\net6.0\Odd_even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Odd_even\Odd_even\obj\Debug\net6.0\Odd_even.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Odd_even\Odd_even\obj\Debug\net6.0\Odd_even.AssemblyInfo.cs
+C:\Users\user\source\repos\Odd_even\Odd_even\obj\Debug\net6.0\Odd_even.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Odd_even\Odd_even\obj\Debug\net6.0\Odd_even.dll
+C:\Users\user\source\repos\Odd_even\Odd_even\obj\Debug\net6.0\refint\Odd_even.dll
+C:\Users\user\source\repos\Odd_even\Odd_even\obj\Debug\net6.0\Odd_even.pdb
+C:\Users\user\source\repos\Odd_even\Odd_even\obj\Debug\net6.0\Odd_even.genruntimeconfig.cache
+C:\Users\user\source\repos\Odd_even\Odd_even\obj\Debug\net6.0\ref\Odd_even.dll
